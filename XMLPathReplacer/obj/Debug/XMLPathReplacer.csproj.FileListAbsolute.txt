@@ -1,0 +1,5 @@
+C:\Documents and Settings\Shaun Sandlin\My Documents\Visual Studio 2008\Projects\XMLPathReplacer\XMLPathReplacer\bin\Debug\XMLPathReplacer.exe
+C:\Documents and Settings\Shaun Sandlin\My Documents\Visual Studio 2008\Projects\XMLPathReplacer\XMLPathReplacer\bin\Debug\XMLPathReplacer.pdb
+C:\Documents and Settings\Shaun Sandlin\My Documents\Visual Studio 2008\Projects\XMLPathReplacer\XMLPathReplacer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Shaun Sandlin\My Documents\Visual Studio 2008\Projects\XMLPathReplacer\XMLPathReplacer\obj\Debug\XMLPathReplacer.exe
+C:\Documents and Settings\Shaun Sandlin\My Documents\Visual Studio 2008\Projects\XMLPathReplacer\XMLPathReplacer\obj\Debug\XMLPathReplacer.pdb
